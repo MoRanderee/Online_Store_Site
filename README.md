@@ -1,2 +1,2 @@
-# SoftwareEngBootcamp
-Static websites created for HyperionDev
+# ShopWebsite
+Static shop website created for HyperionDev
