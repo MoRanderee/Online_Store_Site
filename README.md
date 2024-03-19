@@ -1,2 +1,2 @@
 # ShopWebsite
-Static shop website created for HyperionDev
+Static shop website created for HyperionDev task
